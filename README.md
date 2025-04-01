@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Gabriel araujo
-- 🌱 Atualmente estou aprendendo Python
+- 🌱 Atualmente estou melhorando minha tecnicas de desenvolvimento de API´s
 - 💼 Trabalhando em desenvolvimento de app Mapeamento de obras
 - 📫  Como me encontrar: [xgabriel.santana@gmail.com]
   
